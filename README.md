@@ -1,6 +1,10 @@
 # RemoteUsbSwitchControl
 Remote control of usb switch with 2 buttons using simple and chipest SG90 servo and chipest arduino nano. (Also you can use clones)
 
+[![Watch the video](https://img.youtube.com/vi/WLHExdiBQQU/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/WLHExdiBQQU?feature=share))
+
+
+
 ### Installing microcontroller firmware
 - First you need to setup Arduino IDE and install Servo library
 - Connect servo to your arduino +5v - +5v, GND - GND, Servo signal - D3 (You can use other PWM output you want, but it need to change PINOUT in firmware)
